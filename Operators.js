@@ -16,4 +16,4 @@ MyName += "Alsafadi";
 
 
 
-r = Math.floor(Math.random() * 10);
+var r = Math.floor(Math.random() * 10);
