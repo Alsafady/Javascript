@@ -8,6 +8,8 @@ fruits[6] = "Lemon";                 // adds a new element (Lemon) to fruits
 
 
 
+var name = cars[0];
+cars[0] = "GMC";
 
 
 
