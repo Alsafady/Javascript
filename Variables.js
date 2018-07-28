@@ -12,3 +12,10 @@ var myBoolean = true;               // a boolean
 
 var myArray = [];                    // an array
 var myObject = {};                  // an object
+
+
+
+
+
+var x = 1;
+var x = “Hello”
