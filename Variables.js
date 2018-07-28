@@ -1,6 +1,6 @@
 var x = 3;
-var y = 7;
-var z = x + y;
+ y = 7;
+ z = x + y;
 
 
 
