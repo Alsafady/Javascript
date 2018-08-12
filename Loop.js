@@ -8,6 +8,11 @@ text += cars[5] + "<br>";
 
 
 var i;
+
+for (var i = 0; i < 3; i++){
+    console.log(i);
+}
+
 for (i = 0; i < cars.length; i++) {
     text += cars[i] + "<br>";
 }
@@ -28,4 +33,4 @@ while (i < 10) {
     text += "The number is " + i;
     i++;
 }
-//output add 
+//output add
